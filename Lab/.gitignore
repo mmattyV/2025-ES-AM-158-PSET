@@ -2,3 +2,6 @@ report.aux
 report.log
 report.out
 report.toc
+
+# DS store files
+.DS_Store

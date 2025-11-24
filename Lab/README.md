@@ -14,3 +14,24 @@ pip install upkie
 ```
 
 For more detail please refer to the pdf.
+
+## Submission
+
+For all tasks please write a short lab report (2-4 pages) and the rollout video of your policy in Task2 & Task3. If you want to also include your code, please update that on a public github repository and submit the link.
+
+An example gif:
+
+## Task2:
+[Check the video here if not show up](Task2.mp4)
+
+<video controls width="720" playsinline>
+  <source src="Task2.mp4" type="video/mp4">
+</video>
+
+## Task3:
+[Check the video here if not show up](Task3.mp4)
+
+<video controls width="720" playsinline>
+  <source src="Task3.mp4" type="video/mp4">
+</video>
+
